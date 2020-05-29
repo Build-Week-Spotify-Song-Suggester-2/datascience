@@ -20,7 +20,19 @@ Our app takes the provided user input, and generates a GET request that matches 
 
 
 ## Libraries Used
+In this project we used Libraries such as:
 
+### 'Pandas'
+
+### 'Flask'
+
+### 'Plotly'
+
+### 'Joblib'
+
+### 'Sklearn'
+
+### 'Requests'
 
 ## Team Github Links :musical_note:
 [Front-End](https://github.com/Build-Week-Spotify-Song-Suggester-2/front-end)
