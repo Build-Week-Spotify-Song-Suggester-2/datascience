@@ -29,16 +29,13 @@ In this project we used Libraries such as:
 
 ['Sklearn'](https://scikit-learn.org/stable/)
 
+['Spotipy'](https://spotipy.readthedocs.io/en/2.12.0/)
+
 ['Plotly'](https://github.com/plotly/plotly.py)
 
 ['Joblib'](https://joblib.readthedocs.io/en/latest/)
 
 ['Tensorflow'](https://www.tensorflow.org/overview/)
-
-
-
-
-
 
 ## 'Requests'
 
