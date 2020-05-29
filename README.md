@@ -15,9 +15,6 @@ Our app takes the provided user input, and generates a GET request that matches 
 
 ![Radar chart visualization for Aerodynamic by Daft Punk](https://raw.githubusercontent.com/Build-Week-Spotify-Song-Suggester-2/datascience/f7adc65e3366a0df1fe83e732baea3419d9d134b/daft_punk_audio_features_radar_chart.jpg)
 
-## API Endpoints
-
-
 ## Libraries Used
 In this project we used Libraries such as:
 
@@ -36,8 +33,6 @@ In this project we used Libraries such as:
 ['Joblib'](https://joblib.readthedocs.io/en/latest/)
 
 ['Tensorflow'](https://www.tensorflow.org/overview/)
-
-## 'Requests'
 
 ## DS Team
 |[Karl Manalo](https://github.com/karlmanalo)                                        |[Fatai King](https://github.com/fataik1)                                        |[Miriam Ali](https://github.com/maiali13/)                                        |
