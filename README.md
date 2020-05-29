@@ -3,6 +3,8 @@
 ## App :headphones: 
 [https://bw-spotify.herokuapp.com/](https://bw-spotify.herokuapp.com/)
 
+[https://bw-spotify-song-suggester-2-web-ui.netlify.app/](https://bw-spotify-song-suggester-2-web-ui.netlify.app/)
+
 ## Workflow
 ![Alt text](https://raw.githubusercontent.com/Build-Week-Spotify-Song-Suggester-2/datascience/master/DS%20Flowchart.jpg)
 
