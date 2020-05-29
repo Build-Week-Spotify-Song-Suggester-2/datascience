@@ -13,7 +13,7 @@ Our app takes the provided user input, and generates a GET request that matches 
 
 ## Visual Respresentation of Track Audio Data :notes:
 
-![Radar chart visualization for Aerodynamic by Daft Punk](https://raw.githubusercontent.com/Build-Week-Spotify-Song-Suggester-2/datascience/master/daft_punk_audio_features_radar_chart.jpg)
+![Radar chart visualization for Aerodynamic by Daft Punk](https://raw.githubusercontent.com/Build-Week-Spotify-Song-Suggester-2/datascience/f7adc65e3366a0df1fe83e732baea3419d9d134b/daft_punk_audio_features_radar_chart.jpg)
 
 ## API Endpoints
 
