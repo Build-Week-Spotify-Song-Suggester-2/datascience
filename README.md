@@ -1,6 +1,6 @@
 # Data Science - Spotify Track Recommender
 
-## App
+## App :musical_note:
 [https://bw-spotify.herokuapp.com/](https://bw-spotify.herokuapp.com/)
 
 ## Workflow
@@ -13,7 +13,7 @@ We were assigned to deploy a personalized song reccomendation app by creating al
 
 Our app takes the provided user input, matches it to it’s track ID in the Spotify API, and then applies our model to return a json list of top 10 similar songs based on the audio features back to the user. We created both a k-nearest neighbors model and a neural network. However, we chose the to only deploy the KNN model to our app as it was more lightweight and accurate given the time constraint of one fewer workday. 
 
-## Visual Respresentation of Track Audio Data
+## Visual Respresentation of Track Audio Data :notes:
 
 (add image of radar chart?)
 
