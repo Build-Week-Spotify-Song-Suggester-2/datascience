@@ -16,9 +16,11 @@ Our app takes the provided user input, and generates a GET request that matches 
 ## API Endpoints
 
 ['Spotify API - Authorization Token'](https://accounts.spotify.com/api/token)
+
 Sends POST request to Spotify API using client credentials to generate an authorization token.
 
 ['Spotify API - Search'](https://api.spotify.com/v1/search)
+
 Generates GET request using the authorization token acquired via client credentials, the user-inputted song title, and user-inputted artist. This GET request returns a JSON object which is indexed to pull the song's unique song ID.
 
 ## Visual Respresentation of Track Audio Data :notes:
