@@ -11,7 +11,7 @@ A Kaggle database of songs or access to the Spotify API directly. We will be acc
 
 We were assigned to deploy a personalized song reccomendation app by creating algorithm to recommend songs based on user's input song. We created a new dataset of 120k unique song tracks to train our model with, by combining a dataset of tracks from Kaggle and updating it with additional tracks from the Spotify API directly. 
 
-Our app takes the provided user input, and generates a GET requestthat matches it to it’s unique ID in the Spotify API, and then applies our model to return a json list of top 10 similar songs based on the audio features back to the user. Audio features analyzed by the model include track danceability, acousticness, instrumentalness vs speechiness, loudness, energy, and valence. We created both a k-nearest neighbors model and a neural network. However, we chose the to only deploy the KNN model to our app as it was more lightweight and accurate given the time constraint of one fewer workday. 
+Our app takes the provided user input, and generates a GET request that matches the track to it’s unique ID in the Spotify API, and then applies our model to return a json list of top 10 most similar songs back to the user. Song similarity was determined by model analysis of each track's audio feature, including danceability, acousticness, instrumentalness vs speechiness, loudness, energy, and valence. We created both a k-nearest neighbors model and a neural network. However, we chose the to only deploy the KNN model to our app as it was more lightweight and accurate given the time constraint of one fewer workday. 
 
 ## Visual Respresentation of Track Audio Data :notes:
 
