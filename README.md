@@ -21,19 +21,19 @@ Our app takes the provided user input, and generates a GET request that matches 
 ## Libraries Used
 In this project we used Libraries such as:
 
-* ['Pandas'](https://pandas.pydata.org/docs/)
+['Pandas'](https://pandas.pydata.org/docs/)
 
-* ['Numpy'](https://docs.scipy.org/doc/)
+['Numpy'](https://docs.scipy.org/doc/)
 
-* ['Flask'](https://flask.palletsprojects.com/en/1.1.x/)
+['Flask'](https://flask.palletsprojects.com/en/1.1.x/)
 
-* ['Sklearn'](https://scikit-learn.org/stable/)
+['Sklearn'](https://scikit-learn.org/stable/)
 
-* ['Plotly'](https://github.com/plotly/plotly.py)
+['Plotly'](https://github.com/plotly/plotly.py)
 
-* ['Joblib'](https://joblib.readthedocs.io/en/latest/)
+['Joblib'](https://joblib.readthedocs.io/en/latest/)
 
-* ['Tensorflow'](https://www.tensorflow.org/overview/)
+['Tensorflow'](https://www.tensorflow.org/overview/)
 
 
 
@@ -47,7 +47,7 @@ In this project we used Libraries such as:
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
 |                      [<img src="https://avatars1.githubusercontent.com/u/61983251?s=400&v=4" width = "200" />](https://github.com/karlmanalo)                       |                      [<img src="https://avatars0.githubusercontent.com/u/60753309?s=400&u=3d368b599e621fc07f5db6b5e559e68d6f0586a3&v=4" width = "200" />](https://github.com/fataik1)                       |                      [<img src="https://avatars0.githubusercontent.com/u/60833374?s=400&u=f41a5dd8a9127746bd4e9eaee843b08cfcfe1440&v=4" width = "200" />](https://github.com/CodingDuckmx)                       |                      [<img src="https://avatars2.githubusercontent.com/u/5897107?s=460&v=4" width = "200" />](https://github.com/maiali13/)                       
 |                 [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/karlmanalo)                 |            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/fataik1)             |           [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/maiali13/)            |
-| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ]() | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/fatai-king-8b2b5a9b/) | 
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/karl-manalo-472094197/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/fatai-king-8b2b5a9b/) | 
 
 ## Team Github Links :musical_note:
 [Front-End](https://github.com/Build-Week-Spotify-Song-Suggester-2/front-end)
