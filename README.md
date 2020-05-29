@@ -46,6 +46,11 @@ In this project we used Libraries such as:
 
 ['Tensorflow'](https://www.tensorflow.org/overview/)
 
+['Dotenv'](https://pypi.org/project/python-dotenv/)
+
+['Os'](https://docs.python.org/3/library/os.html)
+
+
 ## DS Team
 |[Karl Manalo](https://github.com/karlmanalo)                                        |[Fatai King](https://github.com/fataik1)                                        |[Miriam Ali](https://github.com/maiali13/)                                        |
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
