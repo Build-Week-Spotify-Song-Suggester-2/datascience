@@ -4,7 +4,7 @@
 [https://bw-spotify.herokuapp.com/](https://bw-spotify.herokuapp.com/)
 
 ## Workflow
-![Alt text](/Flowchart.png)
+![Alt text](/DS Flowchart.png)
 
 ## Project Information
 A Kaggle database of songs or access to the Spotify API directly. We will be accessing the Spotify API directly to pull certain information on audio tracks, and a dataset of 120k unique songs to train our model.
